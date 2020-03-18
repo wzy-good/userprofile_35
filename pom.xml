@@ -15,6 +15,7 @@
     </modules>
 
     <!-- 指定仓库位置，依次为aliyun、cloudera和jboss仓库 -->
+	<!-- 指定仓库位置，依次为aliyun、cloudera和jboss仓库 -->
     <repositories>
         <repository>
             <id>aliyun</id>
